@@ -8,7 +8,7 @@
       "description": "Ausztria a hófödte Alpok és a smaragdzöld tavak varázslatos otthona, ahol a kristálytiszta hegyi levegő minden gondot azonnal elfeledtet. Bécs kávéházainak eleganciája és a macskaköves utcákon átsejlő klasszikus zene dallamai egy olyan arisztokratikus korba repítenek, amely máig lüktet és élettel teli. A zöldellő alpesi legelők és a meredek sziklafalak között kanyargó utak olyan tájakra vezetnek, ahol a természet valódi, érintetlen szépségében pompázik. Legyen szó egy eldugott tiroli hegyi falu békéjéről vagy a császárváros grandiózus építészetéről, ez az ország a gazdag hagyományok és a modern elegancia tökéletes harmóniáját nyújtja.",
       "departure": "2024-12-20",
       "capacity": null,
-      "pictureUrl": "https://nits68.github.io/static/utazasi-iroda/maldives.jpg"
+      "pictureUrl": "https://nits68.github.io/static/utazasi-iroda/austria.jpg"
     },
     { 
       "id": 9,
@@ -20,5 +20,6 @@
       "description": "Lengyelország a Balti-tenger vadregényes partvidékétől a Tátra fenséges csúcsaiig ezernyi arcát mutatja meg, ahol a természet ereje és szépsége minden lépésnél jelen van. Krakkó középkori főterén sétálva szinte megelevenedik a gazdag királyi múlt, míg Varsó vibráló utcái a nemzet lenyűgöző élni akarásáról és folyamatos megújulásáról mesélnek. A Mazuri-tavak ezüstösen csillogó víztükre és a białowieżai őserdő mély, titokzatos csendje egy olyan világba hívogat, ahol a táj még érintetlen és ősi békét áraszt. Ez az ország nemcsak építészeti és természeti kincseivel rabolja el a látogatók szívét, hanem híresen melegszívű vendégszeretetével és a történelem viharait is túlélő, büszke kultúrájával.",
       "departure": "2025-02-12",
       "capacity": 267,
-      "pictureUrl": "https://nits68.github.io/static/utazasi-iroda/maldives.jpg"
+      "pictureUrl": "https://nits68.github.io/static/utazasi-iroda/poland.jpg"
+
     }
